@@ -1,4 +1,4 @@
-**Zepto Sales & Inventory Analysis – SQL Project**
+**🛒 Zepto Sales & Inventory Analysis – SQL Project**
 
 **📌 Project Overview**
 
