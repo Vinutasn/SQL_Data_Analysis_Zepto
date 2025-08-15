@@ -20,17 +20,17 @@ The dataset contains details about Zepto’s products, including:
 
 **🔍 Project Workflow**
 
-1. Data Exploration
+**1. Data Exploration**
 - View sample data & row count
 - Identify null values and duplicate product names
 - List unique categories
 - Check stock status (in-stock vs out-of-stock)
 
-2. Data Cleaning
+**2. Data Cleaning**
 - Remove products with MRP = 0 or Selling Price = 0
 - Convert prices from paise to rupees for accuracy
 
-3. Data Analysis Queries
+**3. Data Analysis Queries**
 - Top 10 products by discount percentage
 - Out-of-stock products with high MRP
 - Estimated revenue per category
@@ -40,7 +40,7 @@ The dataset contains details about Zepto’s products, including:
 - Grouping products into Low, Medium, Bulk by weight
 - Total inventory weight per category
 
-🛠 Technologies Used
+**🛠 Technologies Used**
 Database: PostgreSQL
 SQL Concepts:
 - SELECT, WHERE, ORDER BY, LIMIT
@@ -49,7 +49,7 @@ SQL Concepts:
 - Data Cleaning using UPDATE & DELETE
 
 
-📈 Sample Output Insights
+**📈 Sample Output Insights**
 - The Beverages category has the highest estimated revenue.
 - Some products with very high MRP were completely out of stock.
 - Price-per-gram analysis highlights best-value bulk products.
