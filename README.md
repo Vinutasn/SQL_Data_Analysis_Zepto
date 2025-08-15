@@ -1,4 +1,4 @@
-###*Zepto Sales & Inventory Analysis – SQL Project*
+#**Zepto Sales & Inventory Analysis – SQL Project**
 📌 Project Overview
 
 This project analyzes Zepto’s product dataset to gain insights into sales, inventory, and product performance. It demonstrates SQL skills in data exploration, cleaning, and analysis using PostgreSQL.
