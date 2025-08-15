@@ -1,4 +1,4 @@
-#Zepto Sales & Inventory Analysis – SQL Project
+###*Zepto Sales & Inventory Analysis – SQL Project*
 📌 Project Overview
 
 This project analyzes Zepto’s product dataset to gain insights into sales, inventory, and product performance. It demonstrates SQL skills in data exploration, cleaning, and analysis using PostgreSQL.
@@ -8,28 +8,18 @@ This project analyzes Zepto’s product dataset to gain insights into sales, inv
 The dataset contains details about Zepto’s products, including:
 
 sku_id – Unique product identifier
-
 category – Product category (e.g., Beverages, Snacks)
-
 name – Product name
-
 mrp – Maximum Retail Price (₹)
-
 discountPercent – Discount percentage offered
-
 availableQuantity – Stock available
-
 discountedSellingPrice – Price after discount
-
 weightInGms – Product weight in grams
-
 outOfStock – Boolean flag for stock status
-
 quantity – Quantity per SKU
 
 🔍 Project Workflow
 1. Data Exploration
-
 View sample data & row count
 
 Identify null values and duplicate product names
